@@ -41,4 +41,3 @@ class Artist
     songs.collect{ |s| s.genre }.uniq
   end
 end
-© 2020 GitHub, Inc.
